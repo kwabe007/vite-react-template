@@ -1,3 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
