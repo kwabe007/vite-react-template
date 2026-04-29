@@ -1,6 +1,16 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template is a modified version of the Vite React/TypeScript template. Use following command to create a new project:
+
+```bash
+pnpm dlx tiged kwabe007/vite-react-template <project-name>
+```
+
+For example:
+
+```bash
+pnpm dlx tiged kwabe007/vite-react-template my-vite-react-app
+```
 
 Currently, two official plugins are available:
 
